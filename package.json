@@ -1,0 +1,6 @@
+{
+  "name": "agent-deva-generador-de-recetas-saludable-morjzvmc",
+  "version": "1.0.0",
+  "description": "Proyecto de Deva [Gen5]: generador de recetas saludables con calorias",
+  "main": "index.js"
+}
